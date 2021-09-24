@@ -1,0 +1,20 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-08-31 13:00:00+00:00
+draft: false
+title: '41'
+layout: blog
+url: /2004/08/31/41/
+categories:
+- Latest
+---
+
+I don't confuse George H. W. Bush with a great president. I do believe he has been and remains a truly great American, though. His performance as the former president father of the president has been superb--no one could ask for a better performance.
+
+
+
+
+[And his performance yesterday ](https://www.foxnews.com/story/0,2933,130672,00.html)in defense of the President and in opposition to the President's filthy detractors was stellar.
+
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=600" >}}
+

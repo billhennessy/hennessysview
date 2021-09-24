@@ -1,0 +1,30 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-02-14 18:45:00+00:00
+draft: false
+title: Satire
+layout: blog
+url: /2005/02/14/satire/
+categories:
+- Latest
+---
+
+When I start a blog entry with a dateline( St. Louis, Missouri--, Boulder, Colorado--, etc.) it's a tip off that what follows is satire or humor. I just want anyone to be confused.
+
+
+
+
+Also, I place all humor and satire in [this category](https://blog.billhennessy.com/blogs/hennessys_view/archive/category/1023.aspx).
+
+
+
+
+Thanks,
+
+
+
+
+Bill 
+
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1065" >}}
+

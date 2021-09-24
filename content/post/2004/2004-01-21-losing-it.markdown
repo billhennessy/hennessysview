@@ -1,0 +1,12 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-01-21 03:31:00+00:00
+draft: false
+title: Losing It
+layout: blog
+url: /2004/01/21/losing-it/
+categories:
+- Latest
+---
+
+I promised not to write here anymore, but I have to. Not since Bob Dole pleadingly swore to the GOP, 

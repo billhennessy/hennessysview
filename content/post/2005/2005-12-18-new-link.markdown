@@ -1,0 +1,16 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-12-18 04:54:21+00:00
+draft: false
+title: New Link
+layout: blog
+url: /2005/12/17/new-link/
+categories:
+- Latest
+---
+
+[Common Sense Political Thought](https://commonsensepoliticalthought.com/) is the newest addition to my blogroll.  Please, whatever you do, [read Dana's and Ken's blog.](https://commonsensepoliticalthought.com/)
+
+[Now](https://commonsensepoliticalthought.com/)!
+
+[Go ](https://commonsensepoliticalthought.com/)

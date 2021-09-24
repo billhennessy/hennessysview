@@ -1,0 +1,15 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-08-31 13:00:00+00:00
+draft: false
+title: Arnold II
+layout: blog
+url: /2004/08/31/arnold-ii/
+categories:
+- Latest
+---
+
+Thinking of the celeb imbalance between the dems and GOP, the Republicans have produced President Ronald Reagan, Congressmen Steve Largeant, Sonny Bono, and JC Watts, Senator Fred Thompson, and Governor Ronald Reagan, Mayor Clint Eastwood.  
+  
+Can anyone think of a significant celebrity Democrat office holder?{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=594" >}}
+

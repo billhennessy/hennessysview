@@ -1,0 +1,17 @@
+---
+authors: ["Bill Hennessy"]
+date: 2008-04-22 03:36:20+00:00
+draft: false
+title: Survey
+layout: blog
+url: /2008/04/21/survey/
+categories:
+- Latest
+---
+
+Please take a minute to answer 10 quick questions about plastics and the environment.  This will help me greatly with an environmental sciences class.  
+
+Thanks,
+Bill
+
+ [Please take my survey](https://s-g50ru-43732.sgizmo.com)

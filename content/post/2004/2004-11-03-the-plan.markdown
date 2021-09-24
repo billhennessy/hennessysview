@@ -1,0 +1,15 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-11-03 02:00:19+00:00
+draft: false
+title: The Plan
+layout: blog
+url: /2004/11/03/the-plan/
+categories:
+- Latest
+---
+
+I'm going to the store to get beer and wine.  When I'm confident that I know the outcome of the election, I will open one or the other:  Wine if Bush, beer if Kerry.    
+  
+On the other hand, I might break into them early if I run out of fingernails to bite. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=527" >}}
+

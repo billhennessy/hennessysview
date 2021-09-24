@@ -1,0 +1,15 @@
+---
+authors: ["Bill Hennessy"]
+date: 2008-01-09 01:01:38+00:00
+draft: false
+title: Hot Air
+layout: blog
+url: /2008/01/08/hot-air/
+categories:
+- Latest
+---
+
+Lines for the voting booths unexpectedly thinned after Mabel cast her vote . . .
+
+{{< figure src="https://i.l.cnn.net/cnn/2008/images/01/08/art.nhnightvoting.ap.jpg" >}}
+

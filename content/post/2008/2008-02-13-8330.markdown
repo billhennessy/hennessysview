@@ -1,0 +1,105 @@
+---
+authors: ["Bill Hennessy"]
+date: 2008-02-13 05:45:03+00:00
+draft: false
+title: 'Pater Noster '
+layout: blog
+url: /2008/02/12/8330/
+categories:
+- Latest
+---
+
+The Lord's Prayer in Latin intrigues me.  I think it's because it's so easily understood to speakers of English.
+<table cellpadding="2" cellspacing="0" border="1" >
+<tr >
+
+<td >Pater noster
+</td>
+
+<td >Father of ours
+</td>
+</tr>
+<tr >
+
+<td >Qui es in Caelis
+</td>
+
+<td >Who art in Heaven
+</td>
+</tr>
+<tr >
+
+<td valign="top" >Santificetur nomen tuum
+</td>
+
+<td valign="top" >Sanctified is the name of You
+</td>
+</tr>
+<tr >
+
+<td valign="top" >Adveniat regnum tuum
+</td>
+
+<td valign="top" >In the Advent of the Reign of You
+</td>
+</tr>
+<tr >
+
+<td valign="top" >Fiat voluntas tua
+</td>
+
+<td valign="top" >Your will be done
+</td>
+</tr>
+<tr >
+
+<td valign="top" >sicut in Caelo et in terra
+</td>
+
+<td valign="top" >On Earth as in Heaven
+</td>
+</tr>
+<tr >
+
+<td valign="top" >Panem nostrum quotidianum da nobis hodie
+</td>
+
+<td valign="top" >Bread, give to us our quota today
+</td>
+</tr>
+<tr >
+
+<td valign="top" >Et dimitte nobis debita nostra
+</td>
+
+<td valign="top" >And diminish debts of ours
+</td>
+</tr>
+<tr >
+
+<td valign="top" >Sicut et nos dimittus  debitoribus nostris
+</td>
+
+<td valign="top" >as we diminish debts to us
+</td>
+</tr>
+<tr >
+
+<td valign="top" >Et ne nos inducas in tentationem
+</td>
+
+<td valign="top" >And let us not be pursuaded by temptation
+</td>
+</tr>
+<tr >
+
+<td valign="top" >Sed libera nos a malo
+</td>
+
+<td valign="top" >but liberate us from evil
+</td>
+</tr>
+</table>
+While the common translation uses more familiar words and syntax, the Latin roots and syntax make the Latin prayer accessible to almost anyone. I'm not fluent in Latin, so I may have made some terrible errors, but I think most readers will understand the Latin prayer by these English words.
+
+This is a prayer to memorize, even if you're not a Latin Mass type.  The rhythm of the language is soothing, and the words begin to take on a higher meaning.

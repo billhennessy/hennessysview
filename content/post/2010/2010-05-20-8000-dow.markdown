@@ -1,0 +1,56 @@
+---
+authors: ["Bill Hennessy"]
+date: 2010-05-20 22:03:00+00:00
+draft: false
+title: 8,000 Dow? *UPDATE*
+layout: blog
+url: /2010/05/20/8000-dow/
+categories:
+- Politics
+tags:
+- Economy
+
+type: "post"
+---
+
+So says Yale economist [Nouriel Roubini in an interview](https://www.cnbc.com/id/37259541) today on CNBC.
+
+
+> "There are some parts of the global economy that are now at the risk of a double-dip recession," said Roubini, head of Roubini Global Economics. "From here on I see things getting worse."
+
+
+[![unemployment-line-nyc-depression](https://hennessysview.com/wp-content/uploads/2010/05/unemploymentlinenycdepression_thumb.jpg)
+](https://hennessysview.com/wp-content/uploads/2010/05/unemploymentlinenycdepression.jpg)
+
+Roubini’s comments came in response to a 376 point drop in the Dow Industrials. Nasdaq and S&P 500 were off significantly as well.  All three indices are at or near correction territory, having fallen about 10 percent from their peaks.
+
+The [reasons for the nosedive](https://online.wsj.com/article/SB10001424052748703559004575255961695406510.html?mod=WSJ_hps_MIDDLETopStories) are pretty obvious:
+
+
+
+	  * Uncertainty in the future of finance because of [Dodd’s financial takeover package](https://online.wsj.com/article/SB10001424052748703559004575256352143175906.html?mod=WSJ_hps_LEFTTopStories)
+	  * Fear of sovereign debt as seen in [Greece, Spain, Portugal, and the USA](https://finance.yahoo.com/news/Fed-official-Europes-crisis-apf-1451015256.html?x=0&.v=5)
+	  * [Continued unemployment](https://www.foxbusiness.com/story/jobless-claims-climb-/) in the US
+	  * The [Obama Administration’s unquenchable thirst for borrowing](https://www.forbes.com/forbes/2010/0510/opinions-david-malpass-current-events-washington-possessed.html)
+	  * Talk of the [collapse of the Euro](https://blogs.reuters.com/felix-salmon/2010/05/20/how-the-euro-might-collapse/)
+	  * [Weakness in Asian economies, including China](https://online.wsj.com/article/BT-CO-20100520-703427.html?mod=rss_Global_Stocks)
+	  * Unexpected [jump in unemployment claims](https://online.wsj.com/article/SB10001424052748703559004575256112299027150.html?KEYWORDS=jobless)
+	  * Unexpected [drop in the Index of Leading Economic Indicators](https://online.wsj.com/article/SB10001424052748703559004575256112299027150.html?KEYWORDS=jobless)
+
+In short, if the news isn’t uncertain, it’s bad news for economic growth.  Other economists see weakness in the US economy, as in this [Yahoo News story](https://finance.yahoo.com/news/Stocks-tumble-as-euro-drops-apf-2425241358.html?x=0&sec=topStories&pos=main&asset=&ccode=):
+
+
+> "The economic recovery story has started to look like a mirage and the new reality is a return to credit crunch conditions" like those seen during the financial crisis, said Tom Samuels, manager of the Palantir Fund in Houston. "If that's correct, stock prices are well ahead of economic reality."
+
+
+Buckle your seatbelts.  It looks like Obama’s second recession is on its way.
+
+*UPDATE*
+
+The [stock sell-off continues in Asia ](https://finance.yahoo.com/news/Asian-stock-markets-tumble-apf-4201042719.html?x=0&sec=topStories&pos=1&asset=&ccode=)on Friday.  Major indices are down about 2.5 percent from yesterday's close.  The Senate tonight voted to place massive controls on banks and finance, a move sure to spoil investors' appetites.  This Congress and this administration are bent on controlling every aspect of our lives.  [Alexis de Tocqueville predicted this outcome](https://xroads.virginia.edu/~Hyper/DETOC/toc_indx.html) 180 years ago:
+
+
+> Above this race of men stands an immense and tutelary power, which takes upon itself alone to secure their gratifications and to watch over their fate. That power is absolute, minute, regular, provident, and mild. It would be like the authority of a parent if, like that authority, its object was to prepare men for manhood; but it seeks, on the contrary, to keep them in perpetual childhood: it is well content that the people should rejoice, provided they think of nothing but rejoicing. For their happiness such a government willingly labors, but it chooses to be the sole agent and the only arbiter of that happiness; it provides for their security, foresees and supplies their necessities, facilitates their pleasures, manages their principal concerns, directs their industry, regulates the descent of property, and subdivides their inheritances: what remains, but to spare them all the care of thinking and all the trouble of living?
+
+
+Please[ read the rest of Democracy in America, Volume II, Section 4, Chapter VI](https://xroads.virginia.edu/~Hyper/DETOC/ch4_06.htm).

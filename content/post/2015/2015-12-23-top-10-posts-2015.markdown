@@ -1,0 +1,35 @@
+---
+authors: ["Bill Hennessy"]
+date: 2015-12-23 16:53:00+00:00
+draft: false
+title: Top 10 Posts of 2015
+layout: blog
+url: /2015/12/23/top-10-posts-2015/
+categories:
+- Politics
+tags:
+
+type: "post"
+---
+
+With 2015 winding down, here are the most read posts on Hennessy's View in the last year. Clearly, the governor's race is the top story. In reverse order (most read on bottom).
+
+The GOP's Sad New Whisper Campaign [View](https://hennessysview.com/2015/03/21/the-gops-sad-new-whisper-campaign/)
+
+Is Earth's Axis Shifting? [View](https://hennessysview.com/2015/07/19/analysis-of-2016-gop-governor-poll/)
+
+Can John Brunner's Consultant Do His Duty? [View](https://hennessysview.com/2015/07/18/can-john-brunners-consultant-do-his-duty/)
+
+Paris Attacks Expose Narcissists of Mizzou [View](https://hennessysview.com/2015/11/14/paris-attacks-expose-the-narcissists-of-mizzou/)
+
+Analysis of Governor Poll [View](https://hennessysview.com/2015/07/19/analysis-of-2016-gop-governor-poll/)
+
+Providence and Hope in Missouri [View](https://hennessysview.com/2015/03/05/providence-and-hope-in-missouri/)
+
+Mike Flynn for Congress [View](https://hennessysview.com/2015/03/25/mike-flynn-for-congress/)
+
+Eric Greitens's Shocking Revelation Could Shatter People's Faith [View](https://hennessysview.com/2015/07/14/eric-greitens-shocking-revelation-could-shatter-peoples-faith/)
+
+Farewell Joe LeGrand [View](https://hennessysview.com/2015/08/04/farewell-joe-legrand/)
+
+Republican Governor Poll [View](https://hennessysview.com/2015/07/12/republican-governor-poll/)

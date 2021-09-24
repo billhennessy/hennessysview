@@ -1,0 +1,25 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-09-17 13:00:00+00:00
+draft: false
+title: Polls
+layout: blog
+url: /2004/09/17/polls/
+categories:
+- Latest
+---
+
+The Gallup organization shows the President has a commanding 13-point lead in its latest poll of likely voters conducted in the past week. A Pew Research Group poll conducted during roughly the same period finds the race a dead heat at 46% to 46%.
+
+
+
+
+The Gallup poll was conducted normally. The Pew people tried something new, by conducting the poll in two phases. Whether that accounts for the difference, I don't know, but somebody is wrong here. Way wrong.
+
+
+
+
+I wonder if CBS had the Pew results certified? 
+
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=563" >}}
+

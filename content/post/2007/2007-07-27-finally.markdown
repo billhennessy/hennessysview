@@ -1,0 +1,14 @@
+---
+authors: ["Bill Hennessy"]
+date: 2007-07-27 05:01:10+00:00
+draft: false
+title: 'Finally . . . '
+layout: blog
+url: /2007/07/26/finally/
+categories:
+- Latest
+tags:
+- environmentalists
+---
+
+A blog for mentally challenged people who worry about [EVERYTHING](https://www.truthandprogress.com/frontPage.do).

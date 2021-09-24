@@ -1,0 +1,20 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-07-16 01:09:00+00:00
+draft: false
+title: Buzz Kill
+layout: blog
+url: /2004/07/16/buzz-kill/
+categories:
+- Latest
+---
+
+23 years ago, I met Joe DiMercurio at auditions for his People's Players production of Sound of Music.  Over the next four years, he became one of my closest friends, particularly on stage.    
+  
+Last night, after the thrill of a wonderful opering night, still buzzing from the excitement and the energy of the play, I found out that my haste in producing the program resulted in my omitting one of my best friend's biography.  It was punch in the gut that I delivered to myself.  
+  
+I am sorry, Joe.  I will make it up today.    
+  
+Cordially,  
+Bill{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=684" >}}
+

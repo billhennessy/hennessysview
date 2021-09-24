@@ -1,0 +1,15 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-11-03 04:05:12+00:00
+draft: false
+title: It's 10:00 in St. Louis
+layout: blog
+url: /2004/11/03/its-1000-in-st-louis/
+categories:
+- Latest
+---
+
+I'm drinking Bogle Old Vine Zinfandel (all time favorite wine).  Bush is up by 1/4 million votes in Florida with 90% of the votes counted.  He's up 52%-47% in Florida, Ohio, and the nation.    
+  
+I feel good.  Time to court my wife.   {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=526" >}}
+

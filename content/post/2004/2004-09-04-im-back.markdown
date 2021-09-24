@@ -1,0 +1,23 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-09-04 13:00:00+00:00
+draft: false
+title: I'm Back!!!!!!!
+layout: blog
+url: /2004/09/04/im-back/
+categories:
+- Latest
+---
+
+My server upgrade was easy on Thursday night.  The nightmare was getting my firewall reconfigured.  Yeech.    
+  
+I'll write more later.  Now, have to go check on my meatloaf.    
+  
+Great convention; best since 1984.  In fact, this whole election is starting to feel like 1984.  Let's hope.  Kerry is desperate.  Not sounding so.  Is.    
+  
+George Bush, for the first time ever, looked completely comfortable speaking to a large audience.  He looked at home.    
+  
+Senator John Glenn is a hero for his military and NASA career.  He was a distinguished Senator.  Comparing my party to the Nazi party -- not for the first time, mind you -- makes him an object of scorn.    
+  
+More later.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=591" >}}
+

@@ -1,0 +1,12 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-03-26 07:02:53+00:00
+draft: false
+title: Bedtime
+layout: blog
+url: /2005/03/26/bedtime/
+categories:
+- Latest
+---
+
+I want to stay up until Judge Greer rules, but that won't be until 11:00 AM CT.  I'm going to bed.  God bless all of you.  

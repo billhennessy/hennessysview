@@ -1,0 +1,13 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-08-28 13:00:00+00:00
+draft: false
+title: Site Down
+layout: blog
+url: /2004/08/28/site-down/
+categories:
+- Latest
+---
+
+I apologize for the down time today.  I was attempting to switch my web sites to a new server, but I have a DOA motherboard.  I expect to get the new hardware in place next weekend, so expect some down time on Saturday or Sunday.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=620" >}}
+

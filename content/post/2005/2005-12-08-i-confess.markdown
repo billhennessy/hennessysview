@@ -1,0 +1,12 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-12-08 04:04:55+00:00
+draft: false
+title: 'I Confess . . . '
+layout: blog
+url: /2005/12/07/i-confess/
+categories:
+- Latest
+---
+
+to you, my brothers and sisters, that I have read Christina Martin's [Confessions of a Hot Carmel Sundae](https://carmelsundae.blogspot.com/), and have found it a worthy new addition to my blog roll.  I ask you, my brothers and sisters, to read it with me.   

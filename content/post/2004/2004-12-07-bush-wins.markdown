@@ -1,0 +1,19 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-12-07 00:45:00+00:00
+draft: false
+title: Bush Wins!
+layout: blog
+url: /2004/12/07/bush-wins/
+categories:
+- Latest
+---
+
+According to [CNN](https://www.cnn.com/2004/ALLPOLITICS/12/06/democrats.ohiovoting.ap/index.html), Ohio has certified the election.   
+  
+I feel sorry for the folks at DemocraticUnderground who convinced themselves that Ohio would end up in the Kerry camp and thousands of GOP voters would end up in jail.   
+  
+[Blogs for Bush ](https://www.blogsforbush.com/mt/archives/003109.html)has some interesting polling data.  
+  
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=461" >}}
+

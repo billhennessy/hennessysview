@@ -1,0 +1,12 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-05-21 04:31:05+00:00
+draft: false
+title: Dudes!
+layout: blog
+url: /2005/05/20/dudes/
+categories:
+- Latest
+---
+
+Check out [The Bower](https://thebower.blogspot.com/).  Now, dammit!

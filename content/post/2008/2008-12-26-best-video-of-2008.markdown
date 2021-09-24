@@ -1,0 +1,19 @@
+---
+authors: ["Bill Hennessy"]
+date: 2008-12-26 04:08:04+00:00
+draft: false
+title: Best Video of 2008
+layout: blog
+url: /2008/12/25/best-video-of-2008/
+categories:
+- Science
+- Weather
+tags:
+- AGW
+- Al Gore
+- fear mongering
+- global-warming
+---
+
+OMG, this is golden:
+[youtube=https://www.youtube.com/watch?v=JmPSUMBrJoI&w;=425&h;=344]

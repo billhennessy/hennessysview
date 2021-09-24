@@ -1,0 +1,21 @@
+---
+authors: ["Bill Hennessy"]
+date: 2007-07-22 05:08:36+00:00
+draft: false
+title: Hoo Rah!
+layout: blog
+url: /2007/07/21/hoo-rah/
+categories:
+- Latest
+tags:
+- air-strikes
+- army
+- Baghdad
+- Iraq
+- war
+---
+
+[We kill them ](https://www.abcnews.go.com/International/wireStory?id=3401330). . . and Democrat mourn.
+
+{{< figure src="https://a.abcnews.com/images/International/cad43407-d1e9-4c23-a60e-56684eec1cda_ms.jpeg" >}}
+

@@ -1,0 +1,22 @@
+---
+authors: ["Bill Hennessy"]
+date: 2004-01-03 00:51:00+00:00
+draft: false
+title: Economy
+layout: blog
+url: /2004/01/03/economy/
+categories:
+- Latest
+---
+
+Just a quick rundown of top economic stories on this first business day of the new year:   
+  
+[Manufacturing grew at its fastest pace in 20 years (since the Reagan administration) in December.](https://online.wsj.com/article/0,,SB107305563267857700,00.html?mod=home_whats_news_us)  
+[Hiring will pick up in 2004 according to economists, with unemployment dropping .5% to 5.5% by November (as per my 2004 Predictions).](https://online.wsj.com/article/0,,SB107290591855878500,00.html?mod=home_whats_news_us)  
+[Stock markets are up across the board, with Dow and NASDAQ safely above 10000 and 2000, respectively.](https://online.wsj.com/article/0,,SB10730472225886100,00.html?mod=home_whats_news_us)  
+
+
+Stay tuned for more good news on the recovery. And to think it's all happening without nearly doubling our taxes, as Dr. Dean wants to do. 
+
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=811" >}}
+

@@ -1,0 +1,71 @@
+---
+authors: ["Bill Hennessy"]
+date: 2016-06-21 04:47:52+00:00
+draft: false
+title: I Cheat
+layout: blog
+url: /2016/06/20/i-cheat/
+categories:
+- Writing
+tags:
+
+type: "post"
+---
+
+A friend and colleague paid me a huge compliment recently. A compliment I didn't deserve. He said something about trying to mimic my writing style. That's an ego-booster, for sure, but, well, I don’t really have a writing style. I cheat.
+
+
+
+
+
+See, I experiment with every writing tool I hear about, and I stick with the ones that measurably improve my writing. Especially when they work as I write (because I hate editing and revision, as you can tell). 
+
+
+
+
+
+[Grammarly](https://gram.ly/nXBV) is a tool I started using recently. It’s awesome.
+
+
+
+
+
+In the past, I used [Grammarly](https://gram.ly/nXBV) as a lazy citation tool. I’d write my paper, then run it through their plagiarism checker, which would point me to all the great research that I accidentally referenced. Then I’d grab the citations, mark up my copy, and produce a sickeningly well-documented paper that actually just expressed my own opinion. Like I said, I cheat.
+
+
+
+
+
+But now I've found their Chrome plug-in that monitors my writing even while it's in progress. Since I do most of my writing in a browser, [Grammarly](https://gram.ly/nXBV) never stops correcting me. And that's a good thing.
+
+
+
+
+
+If you use Chrome and write in the browser (even Outlook online), [Grammarly](https://gram.ly/nXBV) will give you real-time feedback and great suggestions. 
+
+
+
+
+
+Plus, it’s gamified. Every week I get a scorecard that shows me how my writing compares to tens of thousands of other [Grammarly](https://gram.ly/nXBV) users. (If I’d been in the bottom 50 percent of anything, I wouldn’t have posted this. Trust me.)
+
+
+
+
+
+![Screenshot 2016-06-20 23.39.39](https://hennessysview.com/wp-content/uploads/2016/06/Screenshot-2016-06-20-23.39.39.png)
+![Screenshot 2016-06-20 23.40.22](https://hennessysview.com/wp-content/uploads/2016/06/Screenshot-2016-06-20-23.40.22.png)
+
+
+
+
+
+
+So if you really want to mimic my writing (and you probably shouldn't), you have to use all the cheats I use. ([Hemingway Editor ](https://www.hemingwayapp.com/)is another.)
+
+
+
+
+
+P.S. I get a free month of [Grammarly](https://gram.ly/nXBV) Premium if you try [**Grammarly**](https://gram.ly/nXBV). I hope you do, for my sake. :-)

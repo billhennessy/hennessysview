@@ -1,0 +1,23 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-09-12 13:05:57+00:00
+draft: false
+title: I am Joan
+layout: blog
+url: /2005/09/12/i-am-joan/
+categories:
+- Latest
+---
+
+![Joan](https://images.quizilla.com/J/JoiTheArtist/1097769652_cturesJoan.jpg)
+  
+You are Joan of Arc! You don't really want to hurt  
+anyone, but if they attack your friends or your  
+country and no-one else will stand up to fight  
+them, you head into the battle. Beware though,  
+conviction tends to get you killed.
+  
+  
+[ Which Saint Are You?](https://quizilla.com/users/JoiTheArtist/quizzes/Which%20Saint%20Are%20You%3F/)  
+brought to you by [Quizilla](https://quizilla.com)
+

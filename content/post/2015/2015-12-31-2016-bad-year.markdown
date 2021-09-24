@@ -1,0 +1,142 @@
+---
+authors: ["Bill Hennessy"]
+date: 2015-12-31 17:55:13+00:00
+draft: false
+title: 2016 Could Be a Very Bad Year
+layout: blog
+url: /2015/12/31/2016-bad-year/
+categories:
+- Business
+tags:
+
+type: "post"
+---
+
+People act according to what they expect.
+
+And that, my friends, could be very bad news for the economy in 2016.
+
+Social psychologists and usability experts both know that people's words often conflict with their actions. This is especially true when asking people to predict their own behavior in a hypothetical.
+
+For example, one study asked people to predict whether they would buy flowers for a charity. **Eight-three percent of respondents said, "yes I would," but only 43 percent actually did**.
+
+The play The Visit by Friedrich Dürrenmatt offers a great study in expectant behavior vs. self-prediction. In the play, a woman, Claire, returns to her economically depressed hometown after inheriting billions from her late husband. Before she arrives, the town prepares to ask her to bail them out.
+
+And she does offer to save the town. But her money comes with a string attached.
+
+Claire offers a large donation to the town and an equal amount to be divided evenly by all citizens. To earn the gift, **someone must murder the town's leading citizen** and Claire's ex-boyfriend, Anton.
+
+The townspeople express their outrage at the request. From the mayor on down, people go out of their way to stop by Anton's store and tell him they will have nothing to do with her evil scheme.
+
+But Anton starts to notice something disconcerting. The people who come in to his shop to tell him they think Claire's offer is horrible and offensive are suddenly spending a lot of money. On credit.
+
+Walking around town, he notices more signs of expected affluence: kids with new toys and shoes, women in the latest fashions, men driving brand new cars, appliance and furniture deliveries on every street. For years, people of the town had made-do. Now it looked like they'd all won the lottery.
+
+It's pretty clear what's going on: while the townspeople say **"I would never kill Anton for money," they're also thinking, "but surely someone will."**
+
+
+
+### Expectations Drive Borrowing
+
+
+
+When we borrow money, we assume we will earn more in the future than we do today.
+
+When a company borrows money for a new machine, it does so in the belief that the machine will allow the firm to sell more products at a profit in the future.
+
+These are both examples of borrowing on positive expectations.
+
+Both individuals and companies also borrow when they expect very bad times to come.
+
+Individuals who know they're going to file for bankruptcy tend to stop paying their bills and start borrowing to their full capacity.
+
+Business who know they're going to face bankruptcy or failure borrow to drain the firm of assets.
+
+Increasingly over the last 5 years, **companies have been borrowing billions of dollars to drain their firms assets**. Take a look at this chart depicting how companies have used loans:
+
+![loan survey](https://hennessysview.com/wp-content/uploads/2015/12/loan-survey.jpg)
+
+
+Hidden in the M&A and Debt Refinancing column is another sinister activity: share buybacks. Let's look at share buybacks since 2000:
+
+![fig 9_0](https://hennessysview.com/wp-content/uploads/2015/12/fig-9_0.jpg)
+
+
+Notice that buybacks were pretty flat from 2000 through about 2006. Notice, too, that 2006 was when the housing market started flashing warning signs.
+
+Expecting bad times ahead, **companies began buying back their own stock to inflate the price** so insiders could get out at the (artificial) top and managers could earn huge bonuses tied to stock prices.
+
+After the crash of 2007 and 2008, stock buybacks and dividends returned briefly to historical norms. But only briefly.
+
+Executives soon realized that the debt bomb that triggered the 2007 and 2008 crash had not detonated. It actually became more powerful. The government and business did not fix the problem of trillions in bad debt--they simply kicked the can down the road.
+
+
+
+[[Find out what separates military leaders from civilian managers.](https://hennessysview.com/2015/12/30/one-thing-the-military-teaches-that-business-school-doesnt/)]
+
+
+
+These CEOs and CFOs are smart people. Smart enough to realize that trillions of dollars in bad debt--debt with no underlying value--must be settled at some point. Realizing this late in 2010 or early 2011, managers began borrowing money and removing it from the firm. Capital expenditures--new plant and equipment and research and development--dried up. **Companies did not borrow to invest in the future; they borrowed to get their money out while they still could.**
+
+According to a study by Alleasing:
+
+
+
+> Capital expenditure (capex) budgets for the new financial year are being impacted by a lack of confidence in the economy. Seven in ten firms will leave their budget unchanged and a further one in ten will decrease spend in FY16, with an average intended reduction of 5%.
+
+These are some of the findings from the latest Alleasing Equipment Demand Index, and they come **despite six in ten firms being detrimentally impacted by a back-log of unproductive equipment.** This figure has risen steadily over four rounds of research, up 6% over that period. For smaller businesses (micro firms and SMEs) the rise has been greater at 10% and 7% respectively. Seventy one per cent of micro firms and 73% of SMEs are indicating their operation is suffering because of unproductive assets.
+
+
+
+You might be tempted to say, "But, Bill, why should we trust this survey? You just said people are bad at predicting their own behavior."
+
+Good point. But there's a difference between predicting what we expect ourselves to do in a hypothetical scenario versus reporting what we have written in our plans. The Alleasing survey asks what's written in your 2016 capex plan, not "what would you do if you suddenly found an extra billion dollars in your bank account?" In other words, this isn't a hypothetical but an actual reading of 2016 budgets.
+
+And look at the quote in bold. **Despite record borrowing, companies are not replacing equipment that they know to be hurting their productivity and profitability**. Companies have little faith in the future, so they're borrowing money and handing it out as bonuses to managers and stockholders.
+
+If my analysis is right, expect to see more stories like [this ZeroHedge story](https://www.zerohedge.com/news/2015-12-23/buyback-bloodbath-beyond-how-bbby-lost-17-billion-buying-back-its-own-stock) on the downfall of Bed Bath & Beyond:
+
+
+
+> We have been following the slow at first, and now very fast-moving disaster that is Bed Bath And Beyond with close interest for years, at first with detached amusement ([Bed, Bath & Beyond Buybacks Authorizes Another $2 Billion In Stock Repuchases](https://www.zerohedge.com/news/2014-07-07/bed-bath-beyond-buybacks-authorizes-another-2-billion-stock-repuchases)) and increasingly with amazement, as the company launched an unprecedented stock buyback spree to mask the relentless deterioration in its underlying business.
+
+Last [September when looking ](https://www.zerohedge.com/news/2014-09-23/wtf-bbbuybacks)at the chart showing BBBY's buybacks vs its capex expenditures, shortly after Q1 BBBY issued $1.5 billion in senior unsecured Notes promptly using $1 billion of this to buyback its own shares, we presented the following three questions:
+
+> 
+> 
+*1. WTF
+*2. Is the entire management team about to quit, but not before cashing out of their equity-linked securities first?
+*3. See 1.
+
+Reading between the lines, what we asked was _"what glaring business weakness is the management team covering up so earnestly with this constant stream of buybacks?"_
+
+
+
+Last week, BBBY announced disastrous same-store sales combined with failure to invest in capex meant future pain. Plus, the company has taken on billions in debt to finance stock buybacks.
+
+
+
+> Or, in return terms, since the start of 2011, BBBY's management spent $6.5 billion to repurchase its own stock, while leverng up to the hilt. It has so far generated paper losses of $1.7 billion: a return which would have gotten any trader or hedge manager not only fired but expelled from the industry for ever.
+
+Putting these numbers in context, **BBBY repurchased 80% of its current market cap, which as of this moment is $8.1 billion**. One wonders where the stock price would be without this Fed-enabled feat of financial engineering...
+
+
+
+And BBBY is only one company that's been borrowing money to spend on stock buybacks, executive bonuses, and dividends. The only thing these companies have in common is a degree in confidence that the business will fail in the near future.
+
+[Tweet ""Companies borrowed to get their money out while they still could""]
+
+The sad thing is that if (or when) BBBY fails, its executives and insiders will make a fortune while its employees, suppliers, and retail investors will get stuck cleaning up their lives.
+
+It would be nice if business people believed and behaved as if [**creating a customer**](https://whitneyhess.com/blog/2012/08/13/the-purpose-of-a-business-is-to-create-a-customer/) was the purpose of business,** not financial engineering**.
+
+When companies borrow money, they're telling you what they expect of the future. If they use the loans to [invest in people](https://www.zerohedge.com/news/2015-11-02/every-job-created-us-decade-us-corporations-spent-296000-stock-buybacks), equipment, and new products, they expect growth. If they use the loans to line their pockets, they expect to go the way of Bear Stearns and Lehman Brothers. Think about that looking that chart of dividends and share buybacks:
+
+![fig 9_0](https://hennessysview.com/wp-content/uploads/2015/12/fig-9_0.jpg)
+
+
+
+
+I realize that not all buybacks are mere financial engineering. For example, Apple has been borrowing to buy back stock in order to reduce future costs of dividends. That's a sound move, especially for a company like Apple that's continuously innovating and improving. But Apple seems to be a rare exception among the buyback crowd which is why the example is so easy to spot.
+
+Companies investing in people, equipment, and products expect a future that's brighter than their present. Companies "investing" primarily in dividends and share buybacks expect to be headed for bankruptcy or bailouts.

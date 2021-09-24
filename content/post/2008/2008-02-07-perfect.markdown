@@ -1,0 +1,12 @@
+---
+authors: ["Bill Hennessy"]
+date: 2008-02-07 05:13:18+00:00
+draft: false
+title: Perfect!
+layout: blog
+url: /2008/02/06/perfect/
+categories:
+- Latest
+---
+
+[youtube https://www.youtube.com/watch?v=HDRA3XFfDr4&rel;=1]

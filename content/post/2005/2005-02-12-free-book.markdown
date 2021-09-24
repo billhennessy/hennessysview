@@ -1,0 +1,20 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-02-12 05:38:00+00:00
+draft: false
+title: Free Book
+layout: blog
+url: /2005/02/12/free-book/
+categories:
+- Latest
+---
+
+Wow. Only 75 people have downloaded a[ PDF version of The Conservative Manifesto](https://blog.billhennessy.com/forums/1016/ShowPost.aspx).
+
+
+
+
+It's free!
+
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1048" >}}
+

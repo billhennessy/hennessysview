@@ -1,0 +1,13 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-01-30 17:02:00+00:00
+draft: false
+title: Great . . .
+layout: blog
+url: /2005/01/30/great/
+categories:
+- Latest
+---
+
+Now [professional wrestlers ](https://channels.netscape.com/ns/news/story.jsp?id=2005012919030002586895&dt=20050129190300&w=RTR&coview=)are predicting global warming.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=966" >}}
+

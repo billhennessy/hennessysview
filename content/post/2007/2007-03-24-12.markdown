@@ -1,0 +1,66 @@
+---
+authors: ["Bill Hennessy"]
+date: 2007-03-24 12:19:49+00:00
+draft: false
+title: Move Your Company and Your Career Forward
+layout: blog
+url: /2007/03/24/12/
+categories:
+- Business
+---
+
+If you want to move your company—and your career—forward, concentrate on moving your product forward.  Obvious, perhaps, but the concept gets little more than lip service in many organizations.
+
+Most of my career in software development has involved web-based products that my companies sell or license to client businesses who, in turn, provide the applications for their clients’ use.  For instance, at Abiliti Solutions (now [FTS](https://www.fts-soft.com/)), we produced telecommunications billing and analysis software, a part of which included electronic bill (or invoice) presentment and payment.   Without revealing too much about my current assignment, I can tell you that if you have a credit card, chances are you use one of our programs regularly.
+
+One daily challenge I face now and for the past ten years is striking a balance between daily “run the engine” tasks and moving the product forward.  You might recognize this triangle:
+
+•	Budget:  you need to keep costs down while you provide excellent, responsive service on your client’s many day-to-day needs
+•	Tasks:  your full time employees are allocated based on these daily tasks with little time allocated for product improvement
+•	Opportunity:  you can see that almost every daily task is actually an opportunity to move the product forward, either by replacing human activity with scheduled or event-driven software activity or by pushing the activity closer to the source of change, eliminating the need for “middlemen.”
+
+If this situation sounds familiar, you are lucky.  First, you have customers for your product.  Second, you have human resources at your disposal.  Finally, you recognize that your customer would be better served if more of your fees were allocated to improving the product and less to merely maintaining the status quo.
+
+I have a solution.
+
+**Get Into the Client’s Mind**
+You need to know what the client wants and you need the client to know what you can do for her.  Most of the direct client management belongs to some business or marketing role.  But as any sales professional knows, you can sell only to the decision maker, so you have to get in front of the client.
+<!-- more -->
+In programs in which I am not routinely involved in client relationship, I work my way to the client’s attention by picking up the baton when the regular relationship manager is on vacation, out of town with another client, or otherwise distracted.  I do not go behind any backs but simply offer to help out with client A while the business manager is busy with client B.  Once they take my offer (and they always do),  I immediately call the key client contact to let him or her know that I am available by cell phone or email, anytime, if they cannot get hold of their usual liaison.  I don’t tell them that the regular liaison is about to become hard to get hold of, because I want my availability to feel permanent.
+
+**Learn the Client’s Pain Points**
+
+Before the first conference call, I make casual rounds of the key people who work with this client—particularly those who provide day-to-day services and communication.  These folks know where the pain points are:  the file that’s always late, the time it takes make content changes on the web site, the data entry error that somehow make their way to the production system.  Chances are, the first thing you hear from the client will involve one of these problems.
+
+Make sure you cover the same territory with your business managers, too.  While your company’s rank-and-file and the client’s may commiserate about the same issues, the client’s managers may have other priorities.  (At the risk of shocking, managers are sometimes deaf to the daily problems their people face.)
+
+If the client managers and workers share the same priorities, you know exactly what solutions to pursue.  If, however, their priorities are not aligned, you have an even more powerful opportunity:  in addition to showing up at the next status meeting with a solution to the management’s top priority, you can clue in your client on issues his or her people are struggling with.  Have a solution ready for this, too, and have a smooth presentation.
+
+“Your people tell my people that you don’t listen to their needs,” is not the way into your client’s heart.
+
+“Some of our coordinators and programmers tell me that the sales information file misses its SLA about twice a week, and it costs them and their counterparts in your organization about four hours every time it happens.”  This approach gives the client the opportunity to pretend he knows of the situation while hinting that the problem is costing him money.  Your proposed solution—even if it’s to schedule a breakout meeting later—will get a welcomed reception.
+
+You’ll have demonstrated two critical points:
+•	You are a manager in tune with the daily challenges of your people and your client’s people, not just a bit-twiddler looking for chance to play with Ajax on the client’s dime
+•	You can deliver solutions without asking for a week to “talk it over with the technology folks,” an annoying inefficiency that smart customers abhor
+
+**Deliver a Quick Win**
+
+You’ve told the client, in so many words, that you can add value to the relationship.  You better deliver—and fast.   Almost every problem has three solutions:  an immediate fix, a long-term solution, and a perfect solution.  Sell the immediate fix and develop a formal proposal for the perfect solution.  (Chances are, the long-term solution will never see the light of day, but that’s fodder for a future article.)
+
+General Patton said, “A good solution executed with vigor now is better than a perfect solution ten minutes later,” and every good manager I’ve known has commented approvingly of that slogan emblazoned on the wall of my office directly above my head.  Your immediate fix is the good solution.  It must save the client money while maintaining or improving quality.
+
+**Leverage Your Credibility**
+
+The client knows you can relieve her pain.  Finally, you’re in position to move.  You have three objectives:
+
+**Get a Seat at the Big Table**:  You have earned your spot on the business management team for this client (and other clients, if you manage a portfolio).  Make sure you get it.  Tell the client, “You know, if I’m involved in more of our regular status calls, we can knock off a lot these nagging issues faster.”  You’ll get the invite.
+
+**Relieve Pain First**:  You’ve solved one problem, but more remain.  Human nature tends to escape pain before pursuing pleasure, so continue the strategy that worked the first time.  Talk to people, find out their biggest problem, align client management pain with client workers’ pain, and solve the biggest problems first.
+
+**Move the Program Forward**:  You’ve lain the groundwork to sell big ideas to the client.  You know  that a content management administrative tool can save the client $20K a year.  While your development team was knocking out the problems, have your architects or designers prepare the proposal for the big things that move the program forward.  Some of this effort will have to hit your R&D budget or its equivalent.  But these are the things that provide real value to your organization by providing excellent value to your client.
+
+Tailor this strategy and these tactics to your situation.  If you’re lucky, you already have a seat at the big table and your organization is already practiced in constantly adding value to its products and services.  If you’re like most of us, though, you need to chisel away at the day-to-day tasks to provide the time to develop the big, valuable pieces.
+
+As Drucker says, managers are judged solely on the value they deliver to their organizations.  Finding a strategy to delivering big things is your first duty.
+

@@ -1,0 +1,15 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-03-27 02:43:47+00:00
+draft: false
+title: Read This
+layout: blog
+url: /2005/03/26/read-this/
+categories:
+- Latest
+---
+
+[Three Bad Fingers](https://www.threebadfingers.com/?p=57)
+
+
+> What are God

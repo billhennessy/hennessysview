@@ -1,0 +1,19 @@
+---
+authors: ["Bill Hennessy"]
+date: 2012-02-24 10:12:00+00:00
+draft: false
+title: Time’s Up!
+layout: blog
+url: /2012/02/24/times-up-2/
+categories:
+- Events
+tags:
+- 3rd anniversary tea party
+type: "post"
+---
+
+The [3rd Anniversary Tea Party](https://3rdanniversaryteaparty.eventbrite.com/) begins tonight at 6:30 at the Crowne Plaza in Clayton.
+
+You can make a difference. But not alone. If you join forces with just three other people, you’ll triple your influence. 
+
+Show up. Bring two friends. Leave with a company a soldiers for the America’s liberation.

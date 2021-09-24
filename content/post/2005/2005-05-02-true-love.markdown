@@ -1,0 +1,12 @@
+---
+authors: ["Bill Hennessy"]
+date: 2005-05-02 15:45:17+00:00
+draft: false
+title: True Love
+layout: blog
+url: /2005/05/02/true-love/
+categories:
+- Latest
+---
+
+A recent correspondence prompted a question in my mind: Which love is greater? The love that validates its object
